@@ -8,4 +8,4 @@ of implementation to just take a look at work.
 # Just in case u want to take a look :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/revelacion1dev/Kaggle_Notebooks/HEAD)
 
-__MyBinder only support up to 10MB of file size__
+
